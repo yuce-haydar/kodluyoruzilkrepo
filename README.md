@@ -16,3 +16,5 @@ Projeyi cloneladiktan sonra Visual Studio Code programinda açiniz.
 Pull requestler kabul edilir. Büyük degisiklikler için, lütfen önce neyi degistirmek istediginizi tartismak için bir konu açiniz.
 ## Licence 
 MIT
+
+![resim](https://github.com/yuce-haydar/kodluyoruzilkrepo/blob/main/github.png)
